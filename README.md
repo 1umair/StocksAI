@@ -3,26 +3,7 @@
 # Description
 
 This repository contains scripts for training and tuning the NLP model BERT, Longformer, FinBERT, and ULMFit for the goal of sentiment analysis on stock transcript data.
-This is a comparative study of three deep learn-
-ing models—BERT, FinBERT, and ULMFiT—in
-sentiment analysis of earnings call transcripts. The
-goal is to find out how leveraging Natural Lan-
-guage Processing (NLP) to extract sentiments con-
-veyed in large financial transcripts can help in
-better-informed investment decisions and risk man-
-agement strategies. We explore the advantages and
-disadvantages each of the deep learning model of-
-fers in the context of our task. We will also assess
-the different requirements of each model in regard
-to the data pre-processing as well as the optimiza-
-tion of their computational resources. Through rig-
-orous experimentation and analysis, we evaluate
-and perform a comparative study of the models us-
-ing various performance metrics such as accuracy,
-precision, recall, and F1-score. Finally, we will
-discuss what possible improvements can help make
-these models more suitable for sentiment analysis
-in financial contexts
+This is a comparative study of three deep learning models—BERT, FinBERT, and ULMFiT in sentiment analysis of earnings call transcripts. The goal is to find out how leveraging Natural Language Processing (NLP) to extract sentiments conveyed in large financial transcripts can help in better informed investment decisions and risk management strategies. We explore the advantages and disadvantages each of the deep learning model offers in the context of our task. We will also assess the different requirements of each model in regard to the data pre-processing as well as the optimization of their computational resources. Through rigorous experimentation and analysis, we evaluate and perform a comparative study of the models using various performance metrics such as accuracy, precision, recall, and F1-score. Finally, we will discuss what possible improvements can help make these models more suitable for sentiment analysis in financial contexts
 
 
 # Table of Contents
