@@ -97,18 +97,12 @@ conda install anaconda::jupyter
 
 ## Install Transcript Database
 
-You will need this repository to run any of these scripts. This holds the custom datset utilized.
+Reach out to me on uabowath3@gatech.edu for data source.
 
-Go to the following link to view: `https://github.gatech.edu/edaykin3/dl-7643-finalproj-DatasetCuration`
-
-To clone:
-```bash
-git clone https://github.gatech.edu/edaykin3/dl-7643-finalproj-DatasetCuration
-```
 
 
 # Contributors
 - Umair Zakir Abowath (uabowath3@gatech.edu)
-- Evan Daykin (edaykin3@gatech.edu)
-- Amssatou Diagne (adiagne7@gatech.edu)
-- Jacob Faile (jfaile3@gatech.edu)
+- Evan Daykin 
+- Amssatou Diagne 
+- Jacob Faile 
